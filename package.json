@@ -2,7 +2,7 @@
   "name": "spam-classifier-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bilalm04.github.io/MailGuard/",
+  "homepage": "https://bilalm04.github.io/mail-guard/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
