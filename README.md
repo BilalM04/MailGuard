@@ -3,8 +3,9 @@
 This repository contains the front-end application for classifying emails as spam or not using a machine learning model. The application is built using Node.js, React.js, and CSS, providing a user-friendly interface to interact with the email classification API. You can explore the website yourself [here](https://bilalm04.github.io/mail-guard/).
 
 <div align="center">
-  
-<img src="https://github.com/user-attachments/assets/53783afc-4171-49d5-9997-0273e360ac71" width="45%"></img> <img src="https://github.com/user-attachments/assets/1cd50490-0447-423f-bd7e-b6fd8ec986ea" width="45%"></img> 
+
+![](https://github.com/user-attachments/assets/53783afc-4171-49d5-9997-0273e360ac71)
+![](https://github.com/user-attachments/assets/1cd50490-0447-423f-bd7e-b6fd8ec986ea)
   
 </div>
 
